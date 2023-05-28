@@ -1,1 +1,1 @@
-content of new readme
+Starting to code today, so cool
